@@ -1,0 +1,4 @@
+#Wed Sep 11 10:49:45 BRT 2019
+base.0=/home/alexandro/StudioProjects/fluttership_home1/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
